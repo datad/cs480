@@ -2,14 +2,6 @@
 
 ### Prep before course starts
 
-
-
-[SYLLABUS](../'CS 480 - Summer - 2020 - Diaz.pdf')
-
-[syll](https://github.com/datad/cs480/blob/master/CS%20480%20-%20Summer%20-%202020%20-%20Diaz.pdf)
-
-
-
 [SYLLABUS](CS%20480%20-%20Summer%20-%202020%20-%20Diaz.pdf)
 
 #### Textbooks
@@ -57,3 +49,5 @@ https://www.youtube.com/watch?v=9yeOJ0ZMUYw
  
 Diana Diaz
 dmdh@uic.edu
+
+https://datad.github.io/cs480/
