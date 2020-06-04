@@ -3,6 +3,15 @@
 ### Prep before course starts
 
 
+
+[SYLLABUS](../'CS 480 - Summer - 2020 - Diaz.pdf')
+
+[syll](https://github.com/datad/cs480/blob/master/CS%20480%20-%20Summer%20-%202020%20-%20Diaz.pdf)
+
+
+
+[SYLLABUS](CS%20480%20-%20Summer%20-%202020%20-%20Diaz.pdf)
+
 #### Textbooks
 
 I will not require any textbook due to the hardship that many students may have suffered, but I will suggest that any book from the following list is useful:
